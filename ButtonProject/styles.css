@@ -1,0 +1,31 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: none;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+form {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+button {
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: none;
+    margin: 0 0 0 10px;
+    background-color: none;
+}
+
+address {
+    text-align: center;
+}
+
+address a {
+    text-decoration: none;
+}
